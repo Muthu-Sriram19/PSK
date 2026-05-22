@@ -52,7 +52,7 @@ plt.title("Demodulated Signal")
 
 plt.tight_layout()
 plt.show()
-Attach the program
+
 ```
 # Output Waveform
 ```
